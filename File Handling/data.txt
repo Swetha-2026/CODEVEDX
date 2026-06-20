@@ -1,0 +1,7 @@
+Artificial Intelligence and Python programming are transforming modern industries.
+File handling is an essential concept in Python used for storing, reading, and processing data efficiently.
+Internships help students gain real-world experience and improve technical skills like coding, problem-solving, and project development.
+Data processing includes operations such as filtering, sorting, and analyzing structured information from files.
+Python provides simple syntax and powerful libraries that make it one of the most popular programming languages for beginners and professionals.
+Consistency, practice, and project development are key to becoming a successful software developer.
+This project demonstrates file reading, word counting, searching, and report generation using Python.

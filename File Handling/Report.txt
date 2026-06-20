@@ -1,0 +1,3 @@
+FILE REPORT
+Total Lines: 7
+Total Words: 102
